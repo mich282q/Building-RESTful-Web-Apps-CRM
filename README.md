@@ -31,3 +31,7 @@ We can install Babel CLI locally by running:
 - Man kan viaer Robo 3T til at se database i mongodb 
 
 - Man kan viaer postman put, post, delete & opdate db viaer mongodb
+
+Author:
+
+Michael Trans
